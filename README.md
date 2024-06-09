@@ -15,3 +15,4 @@ Responsive Design: The web application is built using AngularJS and Bootstrap, e
 SecurePass is an open-source project hosted on GitHub, allowing developers to contribute to its ongoing development and improvement. With SecurePass, users can enjoy peace of mind knowing their passwords are securely stored and easily accessible whenever they need them.
 
 Technologies Used: AngularJS, Node.js, Express.js, MongoDB, Bootstrap
+![image](https://github.com/omgouid786/SecurePass-Password-Manager/assets/112862377/5eac3b8c-5400-4750-ad31-22cdd3c87654)
