@@ -6,8 +6,6 @@ Secure Storage: All passwords are encrypted and stored securely in a MongoDB dat
 
 User-Friendly Interface: The web interface is intuitive and easy to use, allowing users to add, edit, and delete passwords with ease.
 
-Password Generation: SecurePass includes a password generator tool that helps users create strong, random passwords for their accounts.
-
 Customizable Categories: Users can organize their passwords into customizable categories, making it easy to manage different types of accounts.
 
 Responsive Design: The web application is built using AngularJS and Bootstrap, ensuring a responsive and mobile-friendly experience across devices.
